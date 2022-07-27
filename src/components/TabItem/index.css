@@ -1,0 +1,8 @@
+.li {
+  list-style: none;
+}
+.tab-name {
+  padding-right: 20px;
+  color: #7b8794;
+  font-weight: 500;
+}
